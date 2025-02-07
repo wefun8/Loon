@@ -19,7 +19,7 @@ DOMAIN-SUFFIX, hbonow.com
 DOMAIN-SUFFIX, brightline.tv
 DOMAIN-SUFFIX, hbogo.co.th
 DOMAIN-SUFFIX, hbomax-images.warnermediacdn.com
-DOMAIN-SUFFIX, hbo.com.edgesuite.net
-DOMAIN-SUFFIX, hbo.map.fastly.net
-DOMAIN-SUFFIX, hbomaxdash.s.llnwi.net
-DOMAIN-SUFFIX, hbo.com.c.footprint.net
+DOMAIN-KEYWORD, hbo.com.edgesuite.net
+DOMAIN-KEYWORD, hbo.map.fastly.net
+DOMAIN-KEYWORD, hbomaxdash.s.llnwi.net
+DOMAIN-KEYWORD, hbo.com.c.footprint.net
